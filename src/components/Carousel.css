@@ -9,4 +9,10 @@
     .caraousel-container .container{
       width: 100%;
     }
+    .caraousel-container .carousel-control-prev{
+      display: none;
+    }
+    .caraousel-container .carousel-control-next{
+      display: none;
+    }
 }
