@@ -2,9 +2,7 @@
     width: 50rem;
     
 }
-.caraousel-container .container:hover{
-  opacity: 85%;
-}
+
 @media(max-width: 768px) {
     .caraousel-container .container{
       width: 100%;
